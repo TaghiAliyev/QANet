@@ -1,4 +1,10 @@
 # QANet
+This repository has been forked from https://github.com/NLPLearn/QANet and includes changes and updates from me.
+
+Intent is to use the model architecture for a specialized task required for the Smart Data Analytics Platforms. QANet is an architecture developed by the Google, used for the SQuAD Challenge.
+
+Original Author's Readme file is as follows:
+
 A Tensorflow implementation of Google's [QANet](https://openreview.net/pdf?id=B14TlG-RW) (previously Fast Reading Comprehension (FRC)) from [ICLR2018](https://openreview.net/forum?id=B14TlG-RW).
 
 I wrote a blog post about implementing QANet. Check out [here](https://medium.com/@minsangkim/implementing-question-answering-networks-with-cnns-5ae5f08e312b) for more information!
